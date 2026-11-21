@@ -1,0 +1,6 @@
+{
+  "name": "Lunar for Roblox",
+  "description": "All-in-one desktop launcher and player client for Roblox featuring unlimited isolated instances, uncapped FPS, in-app marketplace and fitting room, players network, macros, and a live second-screen HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
